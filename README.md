@@ -30,13 +30,6 @@ _В курса "JS Applications" ще научите какво сa HTTP зая�
 <h3 align="center"><i>List of SPA Apps</i></h3> 
 <h6 align="center"><i>every app has separate package.json and Readme.md</i></h6>
 
-- [x] [01. SoftTerest](05%20Architecture%20and%20Testing/Exercise/03.SoftTerest)
-- [x] [02. Furniture](07%20Routing/Furniture)
-- [x] [03. Team Manager](08%20Modular%20Applications/TeamManager)
-- [x] [04. Meme Lounge](09%20Exam%20Prep/MemeLounge)
-- [x] [05. Car Tube](10%20Exam%20Prep%202/CarTube)
-
-[
 [![GitHub stars](https://img.shields.io/github/stars/Sineastra/JS-Applications-February-2021.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Sineastra/JS-Advanced-January-2021/stargazers)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub forks](https://img.shields.io/github/forks/Sineastra/JS-Applications-February-2021.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/Sineastra/JS-Advanced-January-2021/network/members)
