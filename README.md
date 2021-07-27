@@ -2,8 +2,7 @@
 <h6 align="center">Some Labs and Almost every Excercise Homework for the Softuni JavaScript Applications course. February 2021</h6>
 
 <p align="center">
-    <a href="https://softuni.bg/trainings/3218/js-applications-february-2021">
-        <img src="applications_javascript.png"/>
+    <a href="https://softuni.bg/trainings/3348/js-applications-june-2021/internal">
     </a>
 </p>
 
